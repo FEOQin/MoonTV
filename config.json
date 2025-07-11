@@ -77,6 +77,22 @@
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "闪电资源"
     },
+    "xlm3u8": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "xlm3u8资源"
+    },
+    "mac_xlm3u8": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "macxlm3u8资源"
+    },
+    "xlyun": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "xlyun资源"
+    },
+    "mac_xlyun": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "macxlyun资源"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
