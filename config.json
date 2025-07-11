@@ -74,7 +74,7 @@
       "name": "旺旺短剧"
     }, 
     "bilibili": {
-      "api": "http://zy.xmm.hk/api.php/provide/vod/?ac=list",
+      "api": "http://zy.xmm.hk/api.php/provide/vod",
       "name": "官方采集"
     },
     "ikun": {
