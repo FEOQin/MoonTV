@@ -73,7 +73,7 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     }, 
-    "xmm": {
+    "bilibili": {
       "api": "http://zy.xmm.hk/api.php/provide/vod/?ac=list",
       "name": "官方采集"
     },
